@@ -27,11 +27,9 @@ a{
 .header ul li {
     width: 20%;
     text-align: center;
-    border-top: 2px solid;
-    border-right: 2px solid;
-    border-left: 2px solid;
-    border-bottom: 2px solid;
+    font-size: 100%;
     }
 .text {
     text-align: center;
+    font-size:smaller;
 }
