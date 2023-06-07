@@ -24,12 +24,19 @@ a{
 .header ul {
     display: flex;
     list-style: none;
+    padding: 0 1em 0em 1em;
+    border: solid 3px;
 }
 .header ul li {
     width: 20%;
     text-align: center;
     font-size: 100%;
-    
+    float: left;
+    padding: 0 20px;
+    border-right: solid 3px;
+    }
+    ul li:last-child{
+        border: none;
     }
 .text {
     text-align: center;
