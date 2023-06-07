@@ -23,11 +23,13 @@ a{
 }
 .header ul {
     display: flex;
+    list-style: none;
 }
 .header ul li {
     width: 20%;
     text-align: center;
     font-size: 100%;
+    
     }
 .text {
     text-align: center;
